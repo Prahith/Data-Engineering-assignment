@@ -9,5 +9,5 @@ I've defined 2 ways of finding the degree of profanity for a sentence and both o
 'method1' finds the degree if the words of sentences are normal.
 'method2' finds the degree if the racial slurs are present in a sentence in an indirect way. (Mentioned in the code)
 
-The validity of 'method2' can be checked by replacing a few of the letters in the profane words of a tweet/sentence with '*'.
-Ex. - if 'qwerty' is a profane word in the tweet, replace it with 'qw***ty' in the tweet itself. 'method2' would still identify it as a racial slur!
+The validity of 'method2' can be checked by replacing a few of the letters in the profane words of a tweet/sentence with '**'.
+Ex. - if 'qwerty' is a profane word in the tweet, replace it with 'qw****ty' in the tweet itself. 'method2' would still identify it as a racial slur!
