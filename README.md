@@ -1,5 +1,5 @@
 
-The file 'profanity-check!' consists of code that imports data from a text file containing tweets by various users and checks for degree of profanity of each sentence.
+The file 'profanity-check!' consists of python code that imports data from a text file containing tweets by various users and checks for degree of profanity of each sentence.
 The racial slurs set is given as well.
 Assumptions-
   1. It is assumed that each sentence/tweet is in an individual line in the file.
